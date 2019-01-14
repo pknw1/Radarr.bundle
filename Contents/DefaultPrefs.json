@@ -3,7 +3,7 @@
     "id": "url",
     "label": "Endpoint (Including URL base)",
     "type": "text",
-    "default": "http://127.0.0.1:8989"
+    "default": "http://plex.pknw1.co.uk/radarr"
   },
   {
     "id": "api_key",
