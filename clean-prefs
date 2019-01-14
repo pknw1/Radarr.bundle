@@ -1,0 +1,3 @@
+#!/bin/bash
+rm -rf ../../Plug-in\ Support/Caches/com.github.pknw1.radarr
+rm -rf ../../Plug-in\ Support/Data/com.github.pknw1.radarr
